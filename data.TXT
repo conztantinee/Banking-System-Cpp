@@ -1,0 +1,3 @@
+l;2580;1759;Kamal
+d;1234;15.3;Constantine
+a;4321;Cornelius

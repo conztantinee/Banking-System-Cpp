@@ -1,0 +1,24 @@
+﻿  Account.cpp
+  Deposit.cpp
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\Deposit.h(13,24): warning C4584: 'Deposit': base-class 'FileManage' is already a base-class of 'Account'
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\FileManage.h(9): message : see declaration of 'FileManage'
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\Account.h(12): message : see declaration of 'Account'
+  Loan.cpp
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\Loan.h(13,21): warning C4584: 'Loan': base-class 'FileManage' is already a base-class of 'Account'
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\FileManage.h(9): message : see declaration of 'FileManage'
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\Account.h(12): message : see declaration of 'Account'
+  Main.cpp
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\Deposit.h(13,24): warning C4584: 'Deposit': base-class 'FileManage' is already a base-class of 'Account'
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\FileManage.h(9): message : see declaration of 'FileManage'
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\Account.h(12): message : see declaration of 'Account'
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\Loan.h(13,21): warning C4584: 'Loan': base-class 'FileManage' is already a base-class of 'Account'
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\FileManage.h(9): message : see declaration of 'FileManage'
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\Account.h(12): message : see declaration of 'Account'
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\Main.cpp(21,13): warning C4101: 'a': unreferenced local variable
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\Main.cpp(75,14): warning C4101: 'a': unreferenced local variable
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\Main.cpp(111,16): warning C4101: 'a': unreferenced local variable
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\Main.cpp(175,16): warning C4101: 'a': unreferenced local variable
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\Main.cpp(317,14): warning C4101: 'a': unreferenced local variable
+C:\Users\kamal\source\repos\Banking System Project\Banking System Project\Main.cpp(332,14): warning C4101: 'a': unreferenced local variable
+  Generating Code...
+  Banking System Project.vcxproj -> C:\Users\kamal\source\repos\Banking System Project\x64\Debug\Banking System Project.exe
